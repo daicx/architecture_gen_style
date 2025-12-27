@@ -1,0 +1,12 @@
+name: flutter_clean_gen_no_domain_feature
+description: 生成 flutter_clean_architecture_gen 风格的 feature（无 domain 层，Riverpod 3.x）
+version: 0.1.0
+
+environment:
+  mason: ">=0.1.0-dev.50 <0.2.0"
+
+vars:
+  name:
+    type: string
+    description: Feature 名称（snake_case，例如 blog_list）
+    prompt: 请输入 feature 名称（snake_case）:
