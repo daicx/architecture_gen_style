@@ -1,4 +1,4 @@
-name: flutter_clean_gen_no_domain_feature
+name: architecture_gen_style
 description: 生成 flutter_clean_architecture_gen 风格的 feature（无 domain 层，Riverpod 3.x）
 version: 0.1.0
 
